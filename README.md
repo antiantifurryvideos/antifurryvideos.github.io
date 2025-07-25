@@ -1,10 +1,1 @@
-<pre class="cow">  ______________________
-&lt; trans rights!!!!!!!!!! &gt;
-  ----------------------
-         \   ^__^ 
-          \  (oo)\_______
-             (__)\       )\/\\
-                 ||----w |
-                 ||     ||
-    
-</pre>
+You have illegaly violated the license by forking AND modifying the code, get sued.
